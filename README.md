@@ -119,6 +119,7 @@ As a passionate developer, I believe that one of the most important things we ca
     <img align="left" alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 <br>
+<br>
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Harsh&show_icons=true&theme=radical)
 
