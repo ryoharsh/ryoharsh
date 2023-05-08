@@ -105,6 +105,8 @@ As a passionate developer, I believe that one of the most important things we ca
 <img align="left" alt="C Programming" src="https://img.icons8.com/color/48/null/c-programming.png"/>
 <p>&nbsp;</p>
 
+<br>
+
 ### The Frameworks i uses 😃
 
 <img align="left" alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
