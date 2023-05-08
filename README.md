@@ -86,19 +86,12 @@ I also have developed many WhatsApp clones for clients. with features of WebRTC 
 As a passionate developer, I believe that one of the most important things we can do is to share our knowledge and experience with others. That's why I'm proud to be involved in teaching and mentoring initiatives across India, helping to empower the next generation of developers and innovators.
 </details>
 
-<details>
+### Certifications & Awards 🏅
 
-### Honors & Awards 🏅
-
-- Winner at 5+ Blockchain hackathons [Devfolio](https://devfolio.co/@Saviour1001)
-- Global Rank 7575 at Facebook HackerCup 2021
-- ACM ICPC 2020 Regionalists, Team Name - "We Don't Byte Anymore" 
-- Global Rank 88 in CodeChef June Long Challenge
-- Selected as a scholarship recipient for AWS Machine Learning Scholarship Program by AWS & Udacity. 
-- Global Rank 5755 in Google Hash Code 2021
-- Selected as a scholarship recipient for Education Outreach program by GirlScript
-- All India Rank 524 in Apex 2021 (Competitve Coding Contest) conducted by Scaler Edge
-
+- Got certificate from Google Developer Community in 2019
+- Got certified from GreatLearning campus in 2020
+- Got certified from Open University of Cambridge in Digital Marketing 2021 
+- Certified from Google Android Dev 2021
 
 ### Languages I use to talk to computer 🤔
 
