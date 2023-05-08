@@ -19,7 +19,7 @@
 <a href="mailto:harsh95829@gmail.com">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a>
-
+<br>
 ### About Me 🚀
 
 I'm a versatile designer and developer with experience in UI/UX design, Figma, Axure, Adobe XD, and more. I'm also skilled in several programming languages, including Java, Kotlin, C, C++, React, Flutter, XML, HTML, CSS, PHP, Python, and JavaScript.
