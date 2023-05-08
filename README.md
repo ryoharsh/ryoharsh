@@ -93,14 +93,16 @@ As a passionate developer, I believe that one of the most important things we ca
 
 ### Languages I use to talk to computer 🤔
 
-<img align="left" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">
-<img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img  align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/220px-Julia_Programming_Language_Logo.svg.png" />
-<img align="left" alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
-<img align="left" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-	
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img align="left" alt="HTML" src="https://img.icons8.com/color/48/null/html-5--v1.png">
+<img align="left" alt="CSS" src="https://img.icons8.com/color/48/null/css3.png"/>
+<img  align="left" alt="JS" src="https://img.icons8.com/color/48/null/javascript--v1.png" />
+<img align="left" alt="Dart" src="https://img.icons8.com/fluency/48/null/flutter.png"/>
+<img align="left" alt="Java" src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>
+<img align="left" alt="Kotlin" src="https://img.icons8.com/color/48/null/kotlin.png"/>
+<img align="left" alt="Python" src="https://img.icons8.com/color/48/null/python--v1.png"/>
 
+<img align="left" alt="React" src="https://img.icons8.com/color/48/null/react-native.png"/>
+<img align="left" alt="C Programming" src="https://img.icons8.com/color/48/null/c-programming.png"/>
 <p>&nbsp;</p>
 
 ### Frameworks and Technologies I have worked with
