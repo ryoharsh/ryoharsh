@@ -36,111 +36,57 @@ Founder of Sneva Technologies Pvt Ltd - IT Solutions company based in Uttar Prad
 ### My Experiences 🙌
 
 <details>
-<summary>Developer Relations Engineer at Web3Auth 🧑‍💻</summary>
+<summary>Android Apps by using Java/Kotlin 😉👨‍💻</summary>
 <br>
 
-As a Developer Relations Engineer at Web3Auth, I had the opportunity to utilize my exceptional skillset and industry experience to build, promote and maintain the company's developer portal, SDKs documentation, sample code, and developer community. 
-</details>
-
-
-<details>
-<summary>Major League Hacking Spring Fellow 2022 at Solana Labs 🦀</summary>
-<br>
-
-&emsp;&emsp;Was mentored under [Jon Cinque](https://github.com/joncinque), [Wei He](https://github.com/wei) and [Gage Bachik](https://github.com/GageBachik). Worked on the project [Solana Program Library](https://github.com/solana-labs/solana-program-library), fixed issues on the repository. Worked on porting SPL programs to Anchor framework. 
-	<details>
-	<summary>Issue: Added a checker to check if the recipient address of a token transfer is owned by System Program</summary>
-	<br>
-		&emsp;&emsp;[Pull Request](https://github.com/solana-labs/solana-program-library/pull/3085)
-		<br>
-		&emsp;&emsp;Spl-token transfer didn't check if the recipient address was actually owned by System Program or not. This lead to a lot of loss when 			people sent a lot of funds to a wallet owned by a token. Added a check along with a flag to go past the check. 
-	</details>
-	<details>
-	<summary>Issue: Porting the existing Memo program to Anchor Framework</summary>
-	<br>
-		&emsp;&emsp;[Pull Request](https://github.com/solana-labs/solana-program-library/pull/3024)
-		<br>
-		&emsp;&emsp;The Memo program in SPL is working and written in Vanilla Rust as of now. I got it recreated in Anchor which is a Rust framework. Added 		the same tests which were there for a previous program and made the PR.
-	</details>
-	<details>
-	<summary>Issue: Categorized the dependancies of token/js</summary>
-	<br>
-		&emsp;&emsp;[Pull Request](https://github.com/solana-labs/solana-program-library/pull/2881)
-		<br>
-		&emsp;&emsp;The dependancies in the package.json file need to be corrected as per the requirement on the dev side.  
-	</details>
-	<details>
-	<summary>Issue: Documentation error in token/js</summary>
-	<br>
-		&emsp;&emsp;[Pull Request](https://github.com/solana-labs/solana-program-library/pull/2879)
-		<br>
-		&emsp;&emsp;There was an error in the documentation of the Readme of token/js regarding a subdirectory.  
-	</details>
-	
+As an Android developer with a passion for building innovative and user-friendly apps, I'm always looking for new challenges to tackle. With several years of experience in mobile app development, I've honed my skills in Java, Kotlin, XML, and other key technologies.
 </details>
 
 <details>
-<summary>Program Manager at GirlScript Summer of Code 22 🧑‍💻</summary>
+<summary>Web Development 😁👨‍💻</summary>
 <br>
 
-&emsp;&emsp;Managing [GSSoC](http://gssoc.girlscript.tech/). Managing all the teams and pulling off the complete 3 month long Open Source Event. The event caters to 8000+ people from all over the world. Majority of the participants are students who are starting their open source journey with this event. As a manager I handled the complete organizing team and partnered up with multiple companies such as [Moralis](https://moralis.io/) to make the event a success !! 	
+As a web developer with a passion for creating engaging and interactive user experiences, I'm always looking for new ways to push the boundaries of what's possible on the web. With expertise in HTML, CSS, JavaScript, PHP, and other key technologies, I'm well-equipped to tackle a wide range of web development challenges.
 </details>
 
 <details>
-<summary>Supervisor at GirlScript Winter of Contributing 21 🧑‍💻</summary>
+<summary>WebRTC Technology  ✌👨‍💻</summary>
 <br>
 
-&emsp;&emsp;[GirlScript Winter of Contributing](https://gwoc.girlscript.tech/) is a three-month newly established initiative by GirlScript Foundation to be conducted during winters. GWOC encourages individuals to share their knowledge and ideas to develop technical skills and gain valuable experience in the field of tech education. I will be handling and supervising all the activities done by mentors and contributors done on the [GWOC Repository](https://github.com/girlscript/winter-of-contributing) falling under the C/CPP domain.  
-	
+In addition to my expertise in Android development, I've also gained extensive experience in WebRTC development. Over the past several years, I've completed over 10 apps that leverage WebRTC for real-time communication, ranging from video conferencing tools to collaborative whiteboards.
 </details>
 
 <details>
-<summary>Student Contributor at Bitcoin Core under Summer of Bitcoin 21 ₿ </summary>
+<summary>Problems Solution Finding 😊👨‍💻</summary>
 <br>
 
-&emsp;&emsp;Selected as an contributor of [Bitcoin Core](https://bitcoincore.org/) under the event of [Summer of Bitcoin](https://summerofbitcoin.org/) where I was working under mentors along with my peers to contribute towards the fascinating world of cryptocurrencies. My area of focus is Bitcoin-core and the work revolves around contributing to the [Bitcoin](https://github.com/bitcoin/bitcoin). I have been actively reviewing the features focusing GUIX and am also working on improvising the fuzz tests. I have also been exploring the Onion Service and how to run Bitcoin Core on the Tor network, which helps in getting another layer of security to all the nodes. Here is the [article](https://github.com/Saviour1001/docs/blob/main/Articles/how_to_use_bitcoin_core_onion_service.md) where I have combined all the present documentation regarding the same and created a quick and easy guide to get Bitcoin Core running on Tor. 
-	
+I can solve any problem related to Android Studio, Java, Kotlin, XML, Compose, etc. my expertise to help other developers to acheive something good like me.
 </details>
 
 <details>
-<summary> Mentor at DevIncept Contributor Program 21 🧑‍💻</summary>
+<summary>Worked on Social Media Apps 😆👨‍💻</summary>
 <br>
 
-&emsp;&emsp;[DevIncept Contributor Program](https://devincept.tech/join-us.html) is an Open-Source program to bring students into the world of open source development. There is no restriction in technology, framework or language. I have been assigned the mentor to the [Competitive Programming Question Bank](https://github.com/smv1999/CompetitiveProgrammingQuestionBank).
-	
+As an experienced mobile app developer, I've had the opportunity to work on a variety of social media applications, including Instagram, WhatsApp, Twitter, Facebook, and many more. Whether I'm building a custom app for a client or creating my own social media platform, I'm always focused on delivering a seamless, intuitive user experience that encourages engagement and fosters community.
 </details>
 
 <details>
-<summary> Mentor at Let's Grow More Summer of Code 21🧑‍💻</summary>
+<summary>Developed WhatsApp Clones 🎉👨‍💻</summary>
 <br>
 
-&emsp;&emsp;Mentoring the project of [LunaBot](https://github.com/amanosan/Discord-Bot). Networking with people and promoting opensource and enhancing the community.
-	
+I also have developed many WhatsApp clones for clients. with features of WebRTC Video/Audio calling or Socket.io Chat server. and a beautiful user interface for better user experience.	
 </details>
 
 <details>
-<summary> Contributor at GirlScript Summer of Code 21 🧑‍💻</summary>
+
+<details>
+<summary>Helping 100 students everyday all over India 🧑👨‍💻</summary>
 <br>
 
-&emsp;&emsp;Embraced the journey of Open Source along with the wholesome community of Girl Script. Contributed to multiple projects and still contributing.
-	
+As a passionate developer, I believe that one of the most important things we can do is to share our knowledge and experience with others. That's why I'm proud to be involved in teaching and mentoring initiatives across India, helping to empower the next generation of developers and innovators.
 </details>
 
 <details>
-<summary> Extern at Crio Winter of Doing 21 🧑‍💻</summary>
-<br>
-
-&emsp;&emsp;This program taught me the methodology of learning by doing. It followed the quote "You can't learn swimming by watching videos about it." in coding. Learnt so many tech skills such as FastAPI, hosting an EC2 Instance via AWS etc while creating a project. Even made a meme posting [website](https://xmeme-letsgo.herokuapp.com/) from scratch.
-	
-</details>
-
-<details>
-<summary> Mentee at Script Winter of Code 20 🧑‍💻</summary>
-<br>
-
-&emsp;&emsp;Its an open source program which embarked my journey in the world of Open Source. I contributed to [Algorithmic_Treasure](https://github.com/edualgo/interview-corner) and explored the new oppurtunites of Open Source Community.
-	
-</details>
 
 ### Honors & Awards 🏅
 
