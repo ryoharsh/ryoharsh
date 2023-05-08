@@ -78,8 +78,6 @@ I also have developed many WhatsApp clones for clients. with features of WebRTC 
 </details>
 
 <details>
-
-<details>
 <summary>Helping 100 students everyday all over India 🧑👨‍💻</summary>
 <br>
 
