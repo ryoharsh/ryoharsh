@@ -8,7 +8,7 @@
   <img  align="left" width="28px" src="https://as1.ftcdn.net/v2/jpg/03/20/88/34/1000_F_320883488_PMmkQget359WtY6foB1xFN3Wcvus6WTM.jpg" />
 </a>
 
-<a href="https://instagram.com/developerharsh" target="_blank">
+<a href="https://instagram.com/_developer_harsh_" target="_blank">
   <img  align="left" width="28px" src="https://img.freepik.com/free-vector/instagram-vector-social-media-icon-7-june-2021-bangkok-thailand_53876-136728.jpg?w=740&t=st=1683574844~exp=1683575444~hmac=4ace5db329af34875bbe22b617fbb153ffe74f26c0947f1480840cb3625eca92" />
 </a>
 
@@ -27,7 +27,7 @@
 I'm a versatile designer and developer with experience in UI/UX design, Figma, Axure, Adobe XD, and more. I'm also skilled in several programming languages, including Java, Kotlin, C, C++, React, Flutter, XML, HTML, CSS, PHP, Python, and JavaScript.
 Founder of Sneva Technologies Pvt Ltd - IT Solutions company based in Uttar Pradesh India
 
-- ⚡ Passion: I love to develop apps, check my projects on Instagram. <a href="https://instagram.com/developerharsh" target="_blank">{ Developer } Harsh</a>.
+- ⚡ Passion: I love to develop apps, check my projects on Instagram. <a href="https://instagram.com/_developer_harsh_" target="_blank">{ Developer } Harsh</a>.
 
 ### 🤞 I’m currently working on
 
