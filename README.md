@@ -125,7 +125,7 @@ As a passionate developer, I believe that one of the most important things we ca
 <br>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/developer-harsh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="developer-harsh" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/developerharsh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="developer-harsh" /></a></p><br><br>
 
 <br>
 
