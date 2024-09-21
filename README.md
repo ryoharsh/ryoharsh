@@ -36,6 +36,7 @@ I love to develop applications, its my passion and hobby also.
 <img alt="Python" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="32px" height="32px"/>
 <img alt="C++" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" width="32px" height="32px"/>
 <img alt="C" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" width="32px" height="32px"/>
+<img alt="C#" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" width="32px" height="32px"/>
 <img alt="Dart" src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" width="32px" height="32px"/>
 <img alt="PHP" src="https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000" width="32px" height="32px"/>
 </div>
