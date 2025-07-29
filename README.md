@@ -70,6 +70,3 @@ I love to develop applications, its my passion and hobby also.
 </div>
 
 <div style="clear: both;"></div>
-
-#### Support
-<p><a href="https://www.buymeacoffee.com/developerharsh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="120" alt="developer-harsh" /></a></p><br><br>
