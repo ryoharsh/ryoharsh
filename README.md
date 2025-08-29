@@ -16,7 +16,7 @@
 
 #### Technology Learner & Explorer | Software Developer
 
-I'm a seasoned application developer with 5 years of hands-on experience in the development field. My journey with technology began at the age of 9, when I started building web and mobile applications. Over the years, I've honed my skills across various platforms, including web, mobile, and desktop development.
+I'm a software engineer with 5 years of hands-on experience in the development field. My journey with technology began at the age of 9, when I started building web and mobile applications. Over the years, I've honed my skills across various platforms, including web, mobile, and desktop development.
 
 #### 🤞 What I'm Focused On
 
